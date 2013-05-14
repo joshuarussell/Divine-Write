@@ -1,0 +1,12 @@
+/*
+Theme Name: Divine Write
+Theme URI: http://divinewrite.com
+Description: An HTML5 version of <a href="http://elliotjaystocks.com/starkers/">Starkers</a> by <a href="http://elliotjaystocks.com/">Elliot Jay Stocks</a> which is based on Twenty Ten.
+Version: 1.0
+Author: Joshua Russell
+Author URI: http://madebyjoshua.com
+Tags: starkers, html5, naked, clean, basic
+*/
+
+@import "css/reset.css";
+@import "css/bootstrap-responsive.min.css";
